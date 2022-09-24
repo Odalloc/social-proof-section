@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Odalloc/social-proof-section
+- Live Site URL: https://odalloc.github.io/social-proof-section/
 
 ### Built with
 
